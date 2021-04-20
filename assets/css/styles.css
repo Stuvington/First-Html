@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.text-blue {
+    color: blue;
+}
+
+.text-red {
+    color: red;
+}
+
+.block-container {
+    display:block;
+}
+
+.container h3 {
+    color: aqua;
+}
+
+.container p {
+    color:maroon;
+}
